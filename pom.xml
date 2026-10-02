@@ -79,9 +79,9 @@
 
     <repositories>
         <repository>
-            <name>GitHub Packages - Parent</name>
-            <id>github-parent</id>
-            <url>https://maven.pkg.github.com/fludakit/parent</url>
+            <name>GitHub Packages - Fludakit Org</name>
+            <id>github-fludakit</id>
+            <url>https://maven.pkg.github.com/fludakit/*</url>
             <releases>
                 <enabled>false</enabled>
             </releases>
