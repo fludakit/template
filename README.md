@@ -261,7 +261,7 @@ The `fludakit-parent` POM already declares these in `<dependencyManagement>` —
 - `com.zaxxer:HikariCP`
 - `org.hibernate.orm:hibernate-core`
 
-Plus all sibling FluDa modules (`fluda-sql-init-*`, `fluda-jdbc-client-*`, `fluda-tx-*`).
+Plus all sibling FluDa modules (`fluda-sql-init-*`, `fluda-jdbc-*`, `fluda-tx-*`).
 
 ## Related repositories
 
